@@ -219,7 +219,7 @@ Prediction: Normal
 
 ## 👨‍💻 Author
 
-**Rekha Rani Maji**
+**Tuhin Maji**
 
 B.Tech in Computer Science & Engineering (AI & ML)
 
