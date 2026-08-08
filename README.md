@@ -121,13 +121,13 @@ Network-Intrusion-Detection-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Network-Intrusion-Detection-System.git
+git clone https://github.com/Tuhin092005/Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning.git
 ```
 
 Move into the project folder
 
 ```bash
-cd Network-Intrusion-Detection-System
+cd Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning
 ```
 
 Install required libraries
@@ -154,12 +154,6 @@ Upload:
 - KDDTest+.txt
 
 Run all cells.
-
-### Using Python
-
-```bash
-python Network_Intrusion_Detection_System.py
-```
 
 ---
 
