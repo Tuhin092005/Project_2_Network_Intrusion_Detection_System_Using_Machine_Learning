@@ -140,6 +140,12 @@ pip install -r requirements.txt
 
 ## ▶️ Run the Project
 
+### Using Python
+
+```bash
+python Network_Intrusion_Detection_System.py
+```
+
 ### Using Google Colab
 
 Open
