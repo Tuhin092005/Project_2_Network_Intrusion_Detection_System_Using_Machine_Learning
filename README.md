@@ -98,7 +98,7 @@ Network Intrusion Prediction
 ## 📁 Project Structure
 
 ```text
-Network-Intrusion-Detection-System/
+Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning/
 │
 ├── Network_Intrusion_Detection_System.ipynb 
 ├── Network_Intrusion_Detection_System.py
