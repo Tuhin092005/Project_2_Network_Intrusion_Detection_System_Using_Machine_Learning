@@ -119,19 +119,19 @@ Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning/
 
 ## 🚀 Installation
 
-Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/Tuhin092005/Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning.git
 ```
 
-Move into the project folder
+### Navigate to the project
 
 ```bash
 cd Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning
 ```
 
-Install required libraries
+### Install required libraries
 
 ```bash
 pip install -r requirements.txt
