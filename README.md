@@ -100,18 +100,19 @@ Network Intrusion Prediction
 ```text
 Network-Intrusion-Detection-System/
 │
-├── images/
-│   ├── feature_importance.png
-│   ├── confusion_matrix.png
-│   └── model_accuracy.png
-│
-├── KDDTrain+.txt
-├── KDDTest+.txt
-├── Network_Intrusion_Detection_System.ipynb
+├── Network_Intrusion_Detection_System.ipynb 
 ├── Network_Intrusion_Detection_System.py
+├── Dataset/
+│   ├── KDDTrain+.txt
+│   └── KDDTest+.txt
+├── images/
+│   ├── Confusion_Matrix.png
+│   ├── Model_Accuracy_Comparison.png
+│   └── Top_15_Feature_Importance.png
 ├── requirements.txt
-├── LICENSE
-└── README.md
+├── README.md
+└── LICENSE
+
 ```
 
 ---
