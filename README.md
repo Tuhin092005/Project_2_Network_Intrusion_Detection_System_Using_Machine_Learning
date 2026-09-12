@@ -64,8 +64,8 @@ Target Classes:
 | Model | Accuracy |
 |--------|----------|
 | Logistic Regression | **95.28%** |
-| Decision Tree | **98.17%** |
-| Random Forest | **99.83% ⭐ Best Model** |
+| Decision Tree Classifier | **98.17%** |
+| Random Forest Classifier | **99.83% ⭐ Best Model** |
 
 ---
 
