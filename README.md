@@ -110,9 +110,9 @@ Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning/
 │   ├── model_accuracy_comparison.png
 │   └── top_15_feature_importance.png
 ├── best_model.pkl
-├── scaler.pkl
-├── feature_names.pkl
-├── label_encoders.pkl 
+├── feature_names.pkl 
+├── label_encoders.pkl
+├── scaler.pkl  
 ├── requirements.txt
 ├── README.md
 └── LICENSE
