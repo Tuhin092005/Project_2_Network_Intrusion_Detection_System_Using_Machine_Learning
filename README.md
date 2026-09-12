@@ -107,8 +107,8 @@ Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning/
 │   └── KDDTest+.txt
 ├── images/
 │   ├── confusion_matrix.png
-│   ├── model_accuracy_comparison.png
-│   └── top_15_feature_importance.png
+│   ├── top_15_feature_importance.png
+│   └── model_accuracy_comparison.png 
 ├── requirements.txt
 ├── README.md
 └── LICENSE
