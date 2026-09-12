@@ -108,7 +108,11 @@ Project_2_Network_Intrusion_Detection_System_Using_Machine_Learning/
 ├── images/
 │   ├── confusion_matrix.png
 │   ├── model_accuracy_comparison.png
-│   └── top_15_feature_importance.png 
+│   └── top_15_feature_importance.png
+├── best_model.pkl
+├── scaler.pkl
+├── feature_names.pkl
+├── label_encoders.pkl 
 ├── requirements.txt
 ├── README.md
 └── LICENSE
